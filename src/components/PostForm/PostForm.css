@@ -1,0 +1,42 @@
+.post_form {
+	margin-top: 50px;
+	width: 730px;
+	border: 1px solid #000;
+}
+
+.post_form h3 {
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+.post_form_title p {
+	padding-left: 20px;
+}
+
+.post_form_title input {
+	margin: 0 20px;
+	width: 660px;
+	padding: 10px;
+}
+
+.post_form_description p {
+	padding-left: 20px;
+}
+
+.post_form_description input {
+	margin: 0 20px;
+	width: 665px;
+	height: 50px;
+	padding: 10px;
+	resize: none;
+}
+
+.btn {
+	margin: 10px 20px;
+	outline: none;
+	cursor: pointer;
+	border: 1px solid #ccc;
+	padding: 5px 10px;
+	background: transparent;
+	box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.5);
+}

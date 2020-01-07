@@ -1,0 +1,16 @@
+.header {
+	margin: 20px;
+	display: flex;
+}
+
+.main_nav {
+	margin-left: 300px;
+}
+.main_nav a {
+	text-decoration: none;
+	margin-left: 20px;
+	font-size: 18px;
+	border-right: 1px solid #000;
+	padding-right: 20px;
+	color: blue;
+}
